@@ -1,6 +1,6 @@
 module.exports = {
   publicPath: process.env.NODE_ENV === 'production'
-    ? '/arhanor-test-task.git/'
+    ? '/arhanor-test-task/'
     : '/',
   productionSourceMap: false,
   filenameHashing: false,
